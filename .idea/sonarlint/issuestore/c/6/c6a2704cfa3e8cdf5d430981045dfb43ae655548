@@ -1,0 +1,13 @@
+
+f
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Óžê²
+K
+java:S1481"0Remove this unused "studentInfo" local variable.(÷Ž„îøÿÿÿÿ
+B
+java:S1481C",Remove this unused "student" local variable.(Óžê²
+w
+java:S4276N"\Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Student>'(õžû¸þÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+I
+java:S1144N".Remove this unused private "avgOfSmth" method.(õžû¸þÿÿÿÿ
